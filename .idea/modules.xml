@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AOP/AOP.iml" filepath="$PROJECT_DIR$/AOP/AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boot/Boot.iml" filepath="$PROJECT_DIR$/Boot/Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOC_AOP/IOC_AOP.iml" filepath="$PROJECT_DIR$/IOC_AOP/IOC_AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LightWeight Boot.iml" filepath="$PROJECT_DIR$/LightWeight Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyRpcCommon/NettyRpcCommon.iml" filepath="$PROJECT_DIR$/NettyRpcCommon/NettyRpcCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyRpcCore/NettyRpcCore.iml" filepath="$PROJECT_DIR$/NettyRpcCore/NettyRpcCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyRpcDemo/NettyRpcDemo.iml" filepath="$PROJECT_DIR$/NettyRpcDemo/NettyRpcDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyRpcDemo/RpcClient/RpcClient.iml" filepath="$PROJECT_DIR$/NettyRpcDemo/RpcClient/RpcClient.iml" />
+    </modules>
+  </component>
+</project>
